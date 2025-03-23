@@ -1,4 +1,4 @@
-## Olá! Eu sou a Mariana Alves :)
+## Olá! Eu sou a Mariana Alves 
 
 <div>
   <a href="https://github.com/mzayles">
