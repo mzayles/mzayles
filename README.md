@@ -1,7 +1,11 @@
 ## Olá! Eu sou a Mariana Alves 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzayles&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzayles&layout=compact&icons=true&theme=radical)
+<div>
+  <a href="https://github.com/mzayles">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mzayles&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzayles&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
