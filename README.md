@@ -1,4 +1,4 @@
-### Olá! Eu sou a Mariana Alves, bem-vindo ao meu GitHub 🌟
+### Olá! Eu sou a Mariana Alves, bem-vindo ao meu GitHub! 🌟
 
 <p>No momento, estou focada em aprimorar meus conhecimentos em <strong>Python</strong>, <strong>análise de dados</strong> e <strong>computação em nuvem (AWS)</strong>, com o objetivo de expandir minhas competências na área de <strong>data science</strong>.</p>
 
