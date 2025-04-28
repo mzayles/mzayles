@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Mariana Alves, bem-vindo ao meu GitHub! 🌟
 
-<p>No momento, estou focada em aprimorar meus conhecimentos em <strong>Python</strong>, <strong>análise de dados</strong> e <strong>computação em nuvem (AWS)</strong>, com o objetivo de expandir minhas competências na área de <strong>data science</strong>.</p>
+<p>🧠 Atualmente, estou estudando <strong>Python</strong>, <strong>análise de dados</strong> e <strong>computação em nuvem (AWS)</strong> para expandir minhas competências na área de <strong>Data Science</strong>.</p>
 
-<p>Tenho estudado bibliotecas como <code>pandas</code> e <code>numpy</code> para manipulação de dados, <code>matplotlib</code> e <code>seaborn</code> para visualizações gráficas, além de trabalhar com o <code>DecisionTreeClassifier</code> da <code>sklearn</code> para modelagem de dados.
+<p>Tenho trabalhado com bibliotecas como <code>pandas</code> e <code>numpy</code> para manipulação de dados, <code>matplotlib</code> e <code>seaborn</code> para criação de visualizações, além de explorar algoritmos de machine learning, como o <code>DecisionTreeClassifier</code> da <code>sklearn</code>.</p>
 
 <div>
   <a href="https://github.com/mzayles">
