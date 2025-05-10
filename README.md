@@ -2,8 +2,6 @@
 
 <p>🧠 Atualmente, estou estudando <strong>Python</strong>, <strong>análise de dados</strong> e <strong>computação em nuvem (AWS)</strong> para expandir minhas competências na área de <strong>Data Science</strong>.</p>
 
-<p>Tenho trabalhado com bibliotecas como <code>pandas</code> e <code>numpy</code> para manipulação de dados, <code>matplotlib</code> e <code>seaborn</code> para criação de visualizações, além de explorar algoritmos de machine learning, como o <code>DecisionTreeClassifier</code> da <code>sklearn</code>.</p>
-
 <div>
   <a href="https://github.com/mzayles">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mzayles&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
