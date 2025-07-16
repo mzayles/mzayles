@@ -1,7 +1,5 @@
 ### Olá! Eu sou a Mariana Alves, bem-vindo ao meu GitHub! 🌟
 
-<p>🧠 Atualmente, estou estudando <strong>Python</strong>, <strong>análise de dados</strong> e <strong>computação em nuvem (AWS)</strong> para expandir minhas competências na área de <strong>Data Science</strong>.</p>
-
 <div>
   <a href="https://github.com/mzayles">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mzayles&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -27,3 +25,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mzayles/mzayles/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/affbed33-6777-43f3-a68e-e333354aac98" />
