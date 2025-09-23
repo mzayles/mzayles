@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Mariana Alves, bem-vindo ao meu GitHub! 🌟
 
 <div>
-  <a href="https://github.com/mzayles">
+  <a  href="https://github.com/mzayles">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mzayles&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzayles&layout=compact&langs_count=7&theme=radical"/>
   </a>
